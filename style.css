@@ -17,3 +17,7 @@ td{
     word-wrap: break-word;
     padding-left: 5%;
 }
+
+table{
+    width: 100%;
+}

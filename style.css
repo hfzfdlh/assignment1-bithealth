@@ -2,3 +2,18 @@ th{
     text-align:left;
     padding-right: 15px;
 }
+
+.img-holder{
+    float: none; 
+    margin: auto auto; 
+    text-align:center;
+}
+
+.thumbnail{
+    border: 0;
+}
+
+td{
+    word-wrap: break-word;
+    padding-left: 5%;
+}

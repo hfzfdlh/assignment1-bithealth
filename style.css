@@ -21,3 +21,13 @@ td{
 table{
     width: 100%;
 }
+
+@media (max-width: 992px){
+    #main_top {
+        text-align: center;
+    }
+
+    #table_top{
+        text-align: center;
+    }
+}
